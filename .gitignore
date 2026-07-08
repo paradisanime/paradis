@@ -1,0 +1,24 @@
+# Ignore local noise; keep documentation first.
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Never commit secrets or signing material
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
+!.env.example
+
+# Large binaries should be Release assets, not Git blobs
+*.apk
+*.aab
+*.ipa
+
+# Editor / OS
+.idea/
+.vscode/
+*.iml

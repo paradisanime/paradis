@@ -1,0 +1,42 @@
+PARADIS PUBLIC DISTRIBUTION TERMS
+=================================
+
+Copyright (c) 2026 Paradis maintainers.
+
+This repository distributes documentation and binary Android packages (APK)
+for Paradis. Application source code is maintained separately and is not
+licensed under this file unless explicitly stated elsewhere by the authors.
+
+1. Permission to use
+--------------------
+You may download and install officially published APKs for personal use,
+subject to applicable law and the terms of third-party services you connect
+(including AniList and any content providers).
+
+2. Redistribution
+-----------------
+You may not re-host, rebrand, or redistribute official Paradis APKs as your
+own product without written permission from the maintainers.
+
+3. No warranty
+--------------
+THE SOFTWARE AND BINARY PACKAGES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+4. Limitation of liability
+--------------------------
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE OR DISTRIBUTED PACKAGES.
+
+5. Third-party services
+-----------------------
+Paradis interacts with third-party services. Those services are governed by
+their own terms. This LICENSE does not grant rights to those services.
+
+6. Contact
+----------
+Security: see SECURITY.md
+Support: see SUPPORT.md
