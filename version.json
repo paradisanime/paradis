@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.4",
-  "versionCode": 4,
-  "downloadUrl": "https://github.com/paradisanime/paradis/releases/download/FreeAnime/paradis-v1.0.4.apk",
-  "releaseNotes": "Eren splash loader, search crash fix, anime banners, dub server switching, AniList sync, My List toasts, franchise home feed, Adsterra fixes, and data export/import."
+  "latestVersion": "1.1.4",
+  "versionCode": 14,
+  "downloadUrl": "https://github.com/paradisanime/paradis/releases/download/FreeAnime/paradis-v1.1.4.apk",
+  "releaseNotes": "Continue Watching synced with cloud, Avatar banner update."
 }
