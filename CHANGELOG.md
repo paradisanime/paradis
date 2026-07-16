@@ -12,8 +12,21 @@ Versioning follows SemVer for `latestVersion` and a monotonic integer for `versi
 ## [Unreleased]
 
 ```
-  . Documentation and public repository scaffolding
-  . Release pipeline notes for GitHub APK distribution
+  . (none)
+```
+
+---
+
+## [2.0.13] - 2026-07-16
+
+```
+  versionCode ...... 213
+
+  Fixed
+  ..... Production build metadata + public release pipeline sync
+
+  Notes
+  ..... New Production Build.
 ```
 
 ---
