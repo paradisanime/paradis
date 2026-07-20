@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.13",
-  "versionCode": 213,
-  "downloadUrl": "https://github.com/paradisanime/paradis/releases/download/v2.0.13/paradis-v2.0.13.apk",
-  "releaseNotes": "New Production Build."
+  "latestVersion": "2.0.20",
+  "versionCode": 220,
+  "downloadUrl": "https://github.com/paradisanime/paradis/releases/download/v2.0.20/paradis-v2.0.20.apk",
+  "releaseNotes": "• Manga mode — MangaDex browse, genres, search, library & reader\n• Anime ↔ Manga toggle in header; dedicated manga bottom tabs\n• UI refresh — #E03C3C accent, typography & glass surfaces\n• Manga reader — page/scroll modes, HD/data saver, offline cache, progress sync\n• Manga is live — switch from home & account (no Coming Soon placeholder)\n• Fixes: Expo Go home tab crash; reader settings apply correctly"
 }

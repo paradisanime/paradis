@@ -17,6 +17,31 @@ Versioning follows SemVer for `latestVersion` and a monotonic integer for `versi
 
 ---
 
+## [2.0.20] - 2026-07-20
+
+```
+  versionCode ...... 220
+
+  Added
+  ..... Manga mode powered by MangaDex — home feed, genres, search, personal library
+  ..... Manga reader with horizontal page & vertical scroll modes
+  ..... HD / data-saver image quality, offline page cache, chapter picker, reading progress (expo-sqlite)
+  ..... Anime ↔ Manga toggle in app header; dedicated manga bottom tab bar
+  ..... Chapter-update checks in foreground (production builds)
+
+  Changed
+  ....... Streaming UI polish — #E03C3C accent, Bebas/Outfit/Space Grotesk typography, glass surfaces
+  ....... Cast icon centered under notch; sharp anime poster corners preserved
+  ....... Manga “Coming Soon” replaced with one-tap switch to manga mode (home & account)
+  ....... No ads on manga surfaces (MangaDex AUP)
+
+  Fixed
+  ..... Expo Go crash on home tab (expo-notifications guarded import)
+  ..... Manga reader settings — page/scroll mode and quality selection apply correctly
+```
+
+---
+
 ## [2.0.13] - 2026-07-16
 
 ```
